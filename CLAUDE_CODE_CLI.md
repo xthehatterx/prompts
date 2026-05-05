@@ -1,9 +1,3 @@
-**Got it. Here's the original first prompt with only your corrections applied (no full rewrite).**
-
-I kept everything else exactly as in the first version and only inserted the new details about the prompt box behavior and the tech stack note.
-
----
-
 **You are now rewriting the entire UI/UX layer of your own CLI agent to match the look, feel, behavior, and polish of the official Claude Code CLI (v2.1.128+, May 2026) as closely as humanly possible.**
 
 **Goal**: Make this custom agent feel indistinguishable from native Claude Code CLI in everyday use. Focus exclusively on the terminal interface, input handling, output rendering, status, keyboard experience, and visual feedback. Do not change core agent logic, tool calling, or model behavior unless it directly affects UI.
