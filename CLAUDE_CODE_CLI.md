@@ -84,9 +84,3 @@ Support Vim mode toggle via `/vim` if feasible.
 - After implementing, test it yourself in a sample session and iterate until it feels 95%+ identical.
 
 **Start by planning the architecture changes, then implement step-by-step.** Make no compromises on the "little things" — this is what separates a good agent from one that feels like the real Claude Code CLI.
-
-Begin now.
-
----
-
-This is the **first version** with only your requested changes patched in. Let me know the next small tweak.
